@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kwasonreact-dev-de352-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471112835998:role/amplify-kwasonreact-dev-de352-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471112835998:role/amplify-kwasonreact-dev-de352-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-kwasonreact-dev-de352-deployment",
+      "UnauthRoleName": "amplify-kwasonreact-dev-de352-unauthRole",
+      "StackName": "amplify-kwasonreact-dev-de352",
+      "StackId": "arn:aws:cloudformation:eu-west-3:471112835998:stack/amplify-kwasonreact-dev-de352/68866080-0ada-11ef-a899-0a22ee1772bd",
+      "AmplifyAppId": "dflzmvcxvwb9t"
+    },
+    "categories": {
+      "auth": {
+        "kwasonreact27ac638e": {}
+      }
+    }
+  }
+}
